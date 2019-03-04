@@ -1,0 +1,7 @@
+To compile my smallsh program, please to the following:
+
+1) navigate to the folder in which 'wilsodav.shell.c' is located
+
+2) run this command: gcc wilsodav.shell.c -o smallsh 
+
+3) you should now be able to execute the smallsh program in the same folder
